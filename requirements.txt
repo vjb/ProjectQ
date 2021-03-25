@@ -24,7 +24,7 @@ pybind11==2.2.4
 pycodestyle==2.5.0
 pylint==2.3.1
 pytest==4.3.0
-PyYAML==5.1b3
+PyYAML==5.4
 requests==2.21.0
 scipy==1.2.1
 six==1.12.0
